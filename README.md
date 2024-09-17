@@ -93,7 +93,7 @@ A data máxima para entrega das trilhas foi removida, permitindo que as pessoas 
    - Integre o deploy com o workflow do GitHub Actions.
 
 ### Instruções de Entrega: 📬
-Após finalizar o projeto, publique-o em uma URL pública (por exemplo, Vercel, Netlify, GitHub Pages, etc.) e hospede o seu servidor na nuvem. Use serviços que ofereçam uso gratiuto por um período, como a AWS e preencha o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):  
+Após finalizar o projeto, publique-o em uma URL pública (por exemplo, Vercel, Netlify, GitHub Pages, etc.) e hospede o seu servidor na nuvem. Use serviços que ofereçam uso gratiuto por um período, como a AWS e preencha o [Formulário](https://forms.gle/Nmyjwna23VW9rM7m9):  
 
 ---
 
@@ -103,9 +103,9 @@ Achou esse projeto inicial simples? Eleve ainda mais! Estamos em busca de mentes
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
+- [Discord](discord.gg/y3GHwPvsMK)
 - [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
+- [LinkedIn](https://www.linkedin.com/company/codigocertocoders/)
   
 🌐 **Contato:**
 - Email: codigocertocoders@gmail.com
